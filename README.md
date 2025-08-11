@@ -2,7 +2,7 @@
 
 ### Projects I've contributed to
 - Fortress Connected (New SDK)
-- Raldi's Crackhouse (very minorly)
+- Raldi's Crackhouse (very minorly, but I'm credited)
 - Polygon Donut Garry's Mod playermodel
 
 ### Projects I've lead
